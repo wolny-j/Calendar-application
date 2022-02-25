@@ -1,0 +1,11 @@
+C:\Users\kubek\Desktop\Uczelnia\Programming 2\Calendar_StartingSolution\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.exe.config
+C:\Users\kubek\Desktop\Uczelnia\Programming 2\Calendar_StartingSolution\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.exe
+C:\Users\kubek\Desktop\Uczelnia\Programming 2\Calendar_StartingSolution\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.pdb
+C:\Users\kubek\Desktop\Uczelnia\Programming 2\Calendar_StartingSolution\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.csprojAssemblyReference.cache
+C:\Users\kubek\Desktop\Uczelnia\Programming 2\Calendar_StartingSolution\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.MainForm.resources
+C:\Users\kubek\Desktop\Uczelnia\Programming 2\Calendar_StartingSolution\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\kubek\Desktop\Uczelnia\Programming 2\Calendar_StartingSolution\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.csproj.GenerateResource.cache
+C:\Users\kubek\Desktop\Uczelnia\Programming 2\Calendar_StartingSolution\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.exe
+C:\Users\kubek\Desktop\Uczelnia\Programming 2\Calendar_StartingSolution\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.pdb
+C:\Users\kubek\Desktop\Uczelnia\Programming 2\Calendar_StartingSolution\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.AppointmentForm.resources
+C:\Users\kubek\Desktop\Uczelnia\Programming 2\Calendar_StartingSolution\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.RecurringApointmentForm.resources

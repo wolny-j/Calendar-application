@@ -1,0 +1,3 @@
+A|Programming II Tutorial|On Teams|2020|3|31|13|0|0|240
+R|Daily Meeting|Online|2020|3|30|10|0|0|60|0|5
+R|Weekly Meeting|Somewhere|2020|4|4|12|0|0|30|1|6
